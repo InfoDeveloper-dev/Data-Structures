@@ -61,3 +61,7 @@ class _Graphs:
 
     def display_adj_matrix(self):
         print(self._adj_matrix)
+
+
+G = _Graphs()
+print("Methods and variables associated with Object G is: {}".format(dir(G)))
