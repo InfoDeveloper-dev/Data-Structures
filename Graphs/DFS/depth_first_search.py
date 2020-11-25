@@ -1,5 +1,3 @@
-from Queue_implementation import _Queue
-
 import numpy as np
 
 """
